@@ -1,0 +1,18 @@
+
+# Dataset — do not upload to GitHub
+creditcard.csv
+
+# Generated model files
+*.pkl
+*.joblib
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
