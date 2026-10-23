@@ -1,18 +1,9 @@
 
-# Dataset — do not upload to GitHub
 creditcard.csv
-
-# Generated model files
 *.pkl
 *.joblib
-
-# Python cache
 __pycache__/
-*.py[cod]
-
-# Virtual environments
+.ipynb_checkpoints/
 .venv/
 venv/
-
-# Secrets
 .env
